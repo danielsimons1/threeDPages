@@ -1,0 +1,25 @@
+{
+  "name": "threeDPages",
+  "version": "1.0.0",
+  "title": "Three-D Pages",
+  "description": "A jQuery plugin that uses CSS3 Transitions to turn simple markup into 3D pages.",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "transitions",
+    "css3",
+    "3D",
+    "3D pages",
+    "history"
+  ],
+  "homepage": "https://github.com/danielsimons1/threeDPages",
+  "author": {
+    "name": "Daniel Simons"
+  },
+  "bugs": "https://github.com/danielsimons1/threeDPages/issues",
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "docs": "https://github.com/danielsimons1/threeDPages/blob/master/README.md",
+  "demo": "https://github.com/danielsimons1/threeDPages"
+}
