@@ -9,7 +9,7 @@
     "transitions",
     "css3",
     "3D",
-    "3D pages",
+    "three-D",
     "history"
   ],
   "homepage": "https://github.com/danielsimons1/threeDPages",
@@ -17,6 +17,12 @@
     "name": "Daniel Simons"
   },
   "bugs": "https://github.com/danielsimons1/threeDPages/issues",
+  "licenses": [
+    {
+      "type": "GPL",
+      "url": ""
+    }
+  ],
   "dependencies": {
     "jquery": ">=1.5"
   },
